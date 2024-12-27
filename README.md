@@ -1,3 +1,4 @@
+![logo](https://github.com/Sahilgiri49/Sahilgiri49/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Sahil Giri</h1>
 <h3 align="center">Currently pursuing diploma in AIML 2nd Year</h3>
 
